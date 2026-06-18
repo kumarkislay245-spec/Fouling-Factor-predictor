@@ -12,7 +12,7 @@ st.markdown("---")
 
 # 1. PATH SETUP (PyCharm automatic base directory detect kar lega)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model_path = os.path.join(BASE_DIR, 'fouling_sensor_model(1).pkl')
+model_path = os.path.join(BASE_DIR, 'fouling_sensor_model (2).pkl')
 live_data_path = os.path.join(BASE_DIR, 'live_plant_data.csv')
 
 
