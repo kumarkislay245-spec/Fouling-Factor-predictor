@@ -114,8 +114,9 @@ plotly
 
 ## Live Demo
 
+
 > Deployed on Streamlit Community Cloud
-> 🔗 [your-app-link.streamlit.app](https://your-app-link.streamlit.app)
+> 🔗 [your-app-link.streamlit.app](https://fouling-factor-predictor-dethrc9togc6stiqkhzozm.streamlit.app/)
 
 ---
 
@@ -129,7 +130,8 @@ Fouling in heat exchangers costs the global process industry an estimated **$4.5
 
 Built by **[Kislay Kumar]**
 B.Tech Chemical Engineering | ML + Process Control Enthusiast
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](www.linkedin.com/in/kislay-kumar-819048312
+)
 
 ---
 
