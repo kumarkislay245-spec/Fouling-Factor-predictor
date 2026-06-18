@@ -215,7 +215,7 @@ while run_monitoring and model is not None:
 
                 t3_metric.metric("Hot Fluid Outlet (T₃)",    f"{t3:.2f} K")
                 t4_metric.metric("Cold Fluid Outlet (T₄)",   f"{t4:.2f} K")
-                dt_metric.metric("Engineered Approach (ΔT)", f"{temp_diff:.2f} K")
+                dt_metric.metric("Temperature Difference (ΔT)", f"{temp_diff:.2f} K")
 
                 if rf_pred >= RF_ALARM:
                     fouling_metric.metric("Predicted Fouling (Rᶠ)", f"{rf_pred:.6f}",
