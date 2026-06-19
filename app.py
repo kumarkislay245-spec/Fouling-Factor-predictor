@@ -253,8 +253,8 @@ _init_state()
 
 def simulate_temperatures(step: int):
     """Simulate gradual fouling degradation over time."""
-    t3_base = 330.0   # hot outlet – design
-    t4_base = 320.0   # cold outlet – design
+    t3_base = 320.0   # hot outlet – design
+    t4_base = 310.0   # cold outlet – design
 
     # Fouling causes hot outlet to rise (less heat transfer), cold to drop
     fouling_factor = 1 - np.exp(-step / 200)   # asymptotic degradation curve
